@@ -1,0 +1,33 @@
+body {
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+.wrapper {
+    max-width: 96%;
+    margin: 2em auto 0;
+    display: flex;
+    gap: 3em;
+}
+.wrapper > div {
+    width: 20%;
+    font-weight: normal;
+}
+p > em {
+    background-color: lightsalmon;
+    padding: 5px;
+}
+.serif {
+    font-family: serif;
+}
+.sans-serif {
+    font-family: sans-serif;
+}
+.monospace {
+    font-family: monospace;
+}
+.cursive {
+    font-family: cursive;
+}
+.fantasy {
+    font-family: fantasy;
+}
